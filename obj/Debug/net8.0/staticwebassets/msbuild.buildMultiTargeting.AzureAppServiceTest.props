@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AzureAppServiceTest.props" />
+</Project>
